@@ -1,16 +1,23 @@
-## Hi there 👋
+# Raymond Labban
 
-<!--
-**raymond259/raymond259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital marketing, SEO, and WordPress development at
+[David Martin Design](https://davidmartindesign.com) in Bloomington, Indiana.
 
-Here are some ideas to get you started:
+I work with small businesses and nonprofits on websites that are clear,
+accessible, and easy for local customers to find.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- Local SEO and digital marketing
+- WordPress design and development
+- Practical advice on what a website needs next, and what it doesn't
+
+## How we work
+
+At the studio, sites are built and tested against WCAG 2.1 AA accessibility
+standards, and SEO work is white-hat only.
+
+## Get in touch
+
+- Studio website: https://davidmartindesign.com
+- Contact form: https://davidmartindesign.com/contact/
